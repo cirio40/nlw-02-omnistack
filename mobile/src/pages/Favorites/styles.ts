@@ -10,5 +10,5 @@ const styles = StyleSheet.create({
     marginTop: -40,
   },
 })
-
+console.log();
 export default styles;
